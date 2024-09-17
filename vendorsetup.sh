@@ -15,6 +15,3 @@ git clone --depth=1 https://github.com/LineageOS/android_hardware_xiaomi -b line
 
 #viperfx
 git clone https://github.com/TogoFire/packages_apps_ViPER4AndroidFX packages/apps/ViPER4AndroidFX
-
-#Vendor fimware
-git clone https://github.com/ayushqui/vendor_xiaomi_camellia-firmware.git vendor/xiaomi/camellia-firmware
