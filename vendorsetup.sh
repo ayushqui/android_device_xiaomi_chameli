@@ -2,7 +2,7 @@
 git clone https://github.com/dm700-devs/device_xiaomi_camellia-kernel.git -b thirteen device/xiaomi/camellia-kernel
 
 # Device Vendor Tree
-git clone https://github.com/ayushqui/vendor_xiaomi_camellia.git -b 14.0 vendor/xiaomi/camellia
+git clone https://github.com/ayushqui/android_vendor_xiaomi_camellia.git -b fourteen vendor/xiaomi/camellia
 
 # Sepolicies
 git clone --depth=1 https://github.com/dm700-devs/device_mediatek_sepolicy_vndr.git device/mediatek/sepolicy_vndr 
