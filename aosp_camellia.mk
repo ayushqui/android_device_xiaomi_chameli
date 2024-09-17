@@ -33,3 +33,7 @@ BUILD_FINGERPRINT := Redmi/camellia/camellia:12/SP1A.210812.016/V14.0.6.0.TKTMIX
 
 #pb
 TARGET_FACE_UNLOCK_SUPPORTED := true
+
+#add
+$(call inherit-product-if-exists, vendor/certification/config.mk)
+
